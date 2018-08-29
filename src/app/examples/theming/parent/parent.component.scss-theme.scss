@@ -1,9 +1,9 @@
 @import '~@angular/material/theming';
 
-@mixin anms-parent-component-theme($theme) {
+@mixin ngtest-parent-component-theme($theme) {
   $accent: map-get($theme, accent);
 
-  anms-parent {
+  ngtest-parent {
     > .container {
       > .row {
         > .col-md-6 {

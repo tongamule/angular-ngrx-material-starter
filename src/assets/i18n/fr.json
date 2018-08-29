@@ -1,73 +1,74 @@
 {
-  "anms.title": "Kit de démarrage Angular NgRx Material",
-  "anms.title.short": "Kit de démarrage",
-  "anms.header.github": "Dépot Github",
-  "anms.footer.changelog": "Afficher le journal des changements",
-  "anms.menu.about": "À propos",
-  "anms.menu.features": "Fonctionnalités",
-  "anms.menu.examples": "Exemples",
-  "anms.menu.settings": "Paramètres",
-  "anms.menu.login": "Connexion",
-  "anms.menu.logout": "Déconnexion",
-  "anms.about.change-theme": "Changer le thème",
-  "anms.about.check-blogs": "ou consultez les blogs à propos de",
-  "anms.about.get-started": "Démarrage",
-  "anms.about.get-notified": "Soyez informé des nouvelles versions",
-  "anms.about.get-notified.follow": "Suivez",
-  "anms.about.get-notified.description":
+  "ngtest.title": "Kit de démarrage Angular NgRx Material",
+  "ngtest.title.short": "Kit de démarrage",
+  "ngtest.header.github": "Dépot Github",
+  "ngtest.footer.changelog": "Afficher le journal des changements",
+  "ngtest.menu.about": "À propos",
+  "ngtest.menu.features": "Fonctionnalités",
+  "ngtest.menu.examples": "Exemples",
+  "ngtest.menu.settings": "Paramètres",
+  "ngtest.menu.login": "Connexion",
+  "ngtest.menu.logout": "Déconnexion",
+  "ngtest.about.change-theme": "Changer le thème",
+  "ngtest.about.check-blogs": "ou consultez les blogs à propos de",
+  "ngtest.about.get-started": "Démarrage",
+  "ngtest.about.get-notified": "Soyez informé des nouvelles versions",
+  "ngtest.about.get-notified.follow": "Suivez",
+  "ngtest.about.get-notified.description":
     "un bot Twitter qui vous aide à rester à jour avec les versions des frameworks et bibliothèques Frontend populaires!",
-  "anms.about.contributors": "Contributeurs",
-  "anms.about.contributors.description1":
+  "ngtest.about.contributors": "Contributeurs",
+  "ngtest.about.contributors.description1":
     "Voulez-vous commencer à contribuer à l'open source avec Angular?",
-  "anms.about.contributors.description2":
+  "ngtest.about.contributors.description2":
     "Laissez votre marque et rejoignez l’équipe croissante de contributeurs!",
-  "anms.about.contributors.description3": "Commencez par regarder les ",
-  "anms.about.contributors.description4": " et le ",
-  "anms.about.contributors.issues": "tâches ouvertes",
-  "anms.about.contributors.guide": "guide de contribution",
-  "anms.features.title": "Fonctionnalités",
-  "anms.features.documentation": "Documentation",
-  "anms.features.guide": "Manuel",
-  "anms.features.angular": "Modern powerful framework",
-  "anms.features.angular-material":
+  "ngtest.about.contributors.description3": "Commencez par regarder les ",
+  "ngtest.about.contributors.description4": " et le ",
+  "ngtest.about.contributors.issues": "tâches ouvertes",
+  "ngtest.about.contributors.guide": "guide de contribution",
+  "ngtest.features.title": "Fonctionnalités",
+  "ngtest.features.documentation": "Documentation",
+  "ngtest.features.guide": "Manuel",
+  "ngtest.features.angular": "Modern powerful framework",
+  "ngtest.features.angular-material":
     "Bibliothèque de composants material design",
-  "anms.features.angular-cli":
+  "ngtest.features.angular-cli":
     "Une interface en ligne de commande pour Angular",
-  "anms.features.ngrx":
+  "ngtest.features.ngrx":
     "Flux de données à sens unique alimenté par les Observables RxJS",
-  "anms.features.ngxtranslate":
+  "ngtest.features.ngxtranslate":
     "Une bibliothèque d'internationalisation pour Angular",
-  "anms.features.rxjs":
+  "ngtest.features.rxjs":
     "Programmation réactive avec des collections asynchrones à l'aide d'observables",
-  "anms.features.bootstrap":
+  "ngtest.features.bootstrap":
     "Bibliothèque d'interface utilisateur la plus connue au monde avec une mise en page réactive",
-  "anms.features.typescript":
+  "ngtest.features.typescript":
     "Expérience de développement supérieure, achèvement du code, refactoring et réduction des bogues",
-  "anms.features.fontawesome":
+  "ngtest.features.fontawesome":
     "Icônes vectorielles faciles à utiliser et logos sociaux",
-  "anms.features.themes":
+  "ngtest.features.themes":
     "Prise en charge flexible du thème pour les composants fournis et personnalisés",
-  "anms.features.themes.title": "Thèmes",
-  "anms.features.lazyloading":
+  "ngtest.features.themes.title": "Thèmes",
+  "ngtest.features.lazyloading":
     "Temps de démarrage plus rapide avec des modules fonctionnels chargés à la demande",
-  "anms.features.lazyloading.title": "Chargement à la demande",
-  "anms.settings.title": "Paramètres",
-  "anms.settings.general": "Généraux",
-  "anms.settings.general.placeholder": "Langue",
-  "anms.settings.general.language.en": "Anglais",
-  "anms.settings.general.language.sk": "Slovaque",
-  "anms.settings.general.language.de": "Allemand",
-  "anms.settings.general.language.fr": "Français",
-  "anms.settings.themes": "Thèmes",
-  "anms.settings.themes.placeholder": "Thème de couleur",
-  "anms.settings.themes.blue": "Bleu",
-  "anms.settings.themes.light": "Clair",
-  "anms.settings.themes.nature": "Nature",
-  "anms.settings.themes.dark": "Sombre",
-  "anms.settings.themes.night-mode": "Mode nuit automatique (de 21h00 à 7h00)",
-  "anms.settings.animations": "Animations",
-  "anms.settings.animations.page":
+  "ngtest.features.lazyloading.title": "Chargement à la demande",
+  "ngtest.settings.title": "Paramètres",
+  "ngtest.settings.general": "Généraux",
+  "ngtest.settings.general.placeholder": "Langue",
+  "ngtest.settings.general.language.en": "Anglais",
+  "ngtest.settings.general.language.sk": "Slovaque",
+  "ngtest.settings.general.language.de": "Allemand",
+  "ngtest.settings.general.language.fr": "Français",
+  "ngtest.settings.themes": "Thèmes",
+  "ngtest.settings.themes.placeholder": "Thème de couleur",
+  "ngtest.settings.themes.blue": "Bleu",
+  "ngtest.settings.themes.light": "Clair",
+  "ngtest.settings.themes.nature": "Nature",
+  "ngtest.settings.themes.dark": "Sombre",
+  "ngtest.settings.themes.night-mode":
+    "Mode nuit automatique (de 21h00 à 7h00)",
+  "ngtest.settings.animations": "Animations",
+  "ngtest.settings.animations.page":
     "Transition de la page entière lors de la navigation",
-  "anms.settings.animations.elements":
+  "ngtest.settings.animations.elements":
     "Les éléments de la page de navigation glissent vers le haut"
 }
