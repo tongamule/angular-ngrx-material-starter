@@ -28,33 +28,33 @@
 @import 'app/examples/examples/examples.component.scss-theme';
 
 @mixin custom-components-theme($theme) {
-  @include anms-styles-reset-theme($theme);
-  @include anms-app-component-theme($theme);
-  @include anms-about-component-theme($theme);
-  @include anms-big-input-component-theme($theme);
-  @include anms-todos-container-component-theme($theme);
-  @include anms-stock-market-container-component-theme($theme);
-  @include anms-parent-component-theme($theme);
-  @include anms-child-component-theme($theme);
-  @include anms-examples-component-theme($theme);
+  @include ngtest-styles-reset-theme($theme);
+  @include ngtest-app-component-theme($theme);
+  @include ngtest-about-component-theme($theme);
+  @include ngtest-big-input-component-theme($theme);
+  @include ngtest-todos-container-component-theme($theme);
+  @include ngtest-stock-market-container-component-theme($theme);
+  @include ngtest-parent-component-theme($theme);
+  @include ngtest-child-component-theme($theme);
+  @include ngtest-examples-component-theme($theme);
 }
 
 .default-theme {
-  @include angular-material-theme($anms-theme);
-  @include custom-components-theme($anms-theme);
+  @include angular-material-theme($ngtest-theme);
+  @include custom-components-theme($ngtest-theme);
 }
 
 .light-theme {
-  @include angular-material-theme($anms-light-theme);
-  @include custom-components-theme($anms-light-theme);
+  @include angular-material-theme($ngtest-light-theme);
+  @include custom-components-theme($ngtest-light-theme);
 }
 
 .black-theme {
-  @include angular-material-theme($anms-black-theme);
-  @include custom-components-theme($anms-black-theme);
+  @include angular-material-theme($ngtest-black-theme);
+  @include custom-components-theme($ngtest-black-theme);
 }
 
 .nature-theme {
-  @include angular-material-theme($anms-nature-theme);
-  @include custom-components-theme($anms-nature-theme);
+  @include angular-material-theme($ngtest-nature-theme);
+  @include custom-components-theme($ngtest-nature-theme);
 }

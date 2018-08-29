@@ -1,71 +1,71 @@
 {
-  "anms.title": "Angular NgRx Material Štartér",
-  "anms.title.short": "Angular Štartér",
-  "anms.header.github": "Github Repotitár Projektu",
-  "anms.footer.changelog": "Zobraziť list zmien",
-  "anms.menu.about": "Domov",
-  "anms.menu.features": "Vlastnosti",
-  "anms.menu.examples": "Príklady",
-  "anms.menu.settings": "Nastavenia",
-  "anms.menu.login": "Prihlásenie",
-  "anms.menu.logout": "Odhlásenie",
-  "anms.about.change-theme": "Zmeniť Tému",
-  "anms.about.check-blogs": "alebo si pozri blogy o",
-  "anms.about.get-started": "Ako začať",
-  "anms.about.get-notified": "Upozornenia na nové vydania",
-  "anms.about.get-notified.follow": "Sleduj",
-  "anms.about.get-notified.description":
+  "ngtest.title": "Angular NgRx Material Štartér",
+  "ngtest.title.short": "Angular Štartér",
+  "ngtest.header.github": "Github Repotitár Projektu",
+  "ngtest.footer.changelog": "Zobraziť list zmien",
+  "ngtest.menu.about": "Domov",
+  "ngtest.menu.features": "Vlastnosti",
+  "ngtest.menu.examples": "Príklady",
+  "ngtest.menu.settings": "Nastavenia",
+  "ngtest.menu.login": "Prihlásenie",
+  "ngtest.menu.logout": "Odhlásenie",
+  "ngtest.about.change-theme": "Zmeniť Tému",
+  "ngtest.about.check-blogs": "alebo si pozri blogy o",
+  "ngtest.about.get-started": "Ako začať",
+  "ngtest.about.get-notified": "Upozornenia na nové vydania",
+  "ngtest.about.get-notified.follow": "Sleduj",
+  "ngtest.about.get-notified.description":
     ", Twitter bota ktorý ti pomôže zostať aktuálnym s vydaniami populárnych frontend frameworkov a knižníc!",
-  "anms.about.contributors": "Prispievatelia",
-  "anms.about.contributors.description1":
+  "ngtest.about.contributors": "Prispievatelia",
+  "ngtest.about.contributors.description1":
     "Chceš začať prispievať do open source s Angularom?",
-  "anms.about.contributors.description2":
+  "ngtest.about.contributors.description2":
     "Zanechaj svoju stopu a pridaj sa do rastúceho tímu prispievateľov!",
-  "anms.about.contributors.description3": "Začni tým že si pozrieš ",
-  "anms.about.contributors.description4": " a ",
-  "anms.about.contributors.issues": "list otvorených problémov ",
-  "anms.about.contributors.guide": "prispievateľskú príručku",
-  "anms.features.title": "Vlastnosti",
-  "anms.features.documentation": "Dok.",
-  "anms.features.guide": "Návod",
-  "anms.features.angular": "Moderný výkonný framework",
-  "anms.features.angular-material":
+  "ngtest.about.contributors.description3": "Začni tým že si pozrieš ",
+  "ngtest.about.contributors.description4": " a ",
+  "ngtest.about.contributors.issues": "list otvorených problémov ",
+  "ngtest.about.contributors.guide": "prispievateľskú príručku",
+  "ngtest.features.title": "Vlastnosti",
+  "ngtest.features.documentation": "Dok.",
+  "ngtest.features.guide": "Návod",
+  "ngtest.features.angular": "Moderný výkonný framework",
+  "ngtest.features.angular-material":
     "Knižnica komponentov implementujúcich Material Dizajn",
-  "anms.features.angular-cli": "Rozhranie príkazového riadka pre Angular",
-  "anms.features.ngrx": "Jednosmerný tok dát s pomocou RxJS Observables",
-  "anms.features.rxjs":
+  "ngtest.features.angular-cli": "Rozhranie príkazového riadka pre Angular",
+  "ngtest.features.ngrx": "Jednosmerný tok dát s pomocou RxJS Observables",
+  "ngtest.features.rxjs":
     "Reaktívne programovanie s asynchrónymi kolekciami s pomocou Observables",
-  "anms.features.ngxtranslate":
+  "ngtest.features.ngxtranslate":
     "Knižnica pre internacionalizáciu Angular applikácií",
-  "anms.features.bootstrap":
+  "ngtest.features.bootstrap":
     "Responzívny dizajn od ostrielanej, svetoznámej UI knižnice",
-  "anms.features.typescript":
+  "ngtest.features.typescript":
     "Vynikajúca podpora developerov, automatické dokončovanie kódu, refaktorovanie a menej chýb",
-  "anms.features.fontawesome":
+  "ngtest.features.fontawesome":
     "Ľahko použiteľné vektorové ikony a sociálne logá",
-  "anms.features.themes":
+  "ngtest.features.themes":
     "Flexibilná podpora tém pre vstavané a vlastné komponenty",
-  "anms.features.themes.title": "Témy",
-  "anms.features.lazyloading":
+  "ngtest.features.themes.title": "Témy",
+  "ngtest.features.lazyloading":
     "Rýchlejší štartovací čas s lenivým nahrávaním modulov",
-  "anms.features.lazyloading.title": "Lenivé nahrávanie",
-  "anms.settings.title": "Nastavenia",
-  "anms.settings.general": "Hlavné",
-  "anms.settings.general.placeholder": "Jazyk",
-  "anms.settings.general.language.en": "Angličtina",
-  "anms.settings.general.language.sk": "Slovenčina",
-  "anms.settings.general.language.de": "Nemčina",
-  "anms.settings.general.language.fr": "Francúzsky",
-  "anms.settings.themes": "Témy",
-  "anms.settings.themes.placeholder": "Téma",
-  "anms.settings.themes.blue": "Modrá",
-  "anms.settings.themes.light": "Svetlá",
-  "anms.settings.themes.nature": "Prírodná",
-  "anms.settings.themes.dark": "Tmavá",
-  "anms.settings.themes.night-mode":
+  "ngtest.features.lazyloading.title": "Lenivé nahrávanie",
+  "ngtest.settings.title": "Nastavenia",
+  "ngtest.settings.general": "Hlavné",
+  "ngtest.settings.general.placeholder": "Jazyk",
+  "ngtest.settings.general.language.en": "Angličtina",
+  "ngtest.settings.general.language.sk": "Slovenčina",
+  "ngtest.settings.general.language.de": "Nemčina",
+  "ngtest.settings.general.language.fr": "Francúzsky",
+  "ngtest.settings.themes": "Témy",
+  "ngtest.settings.themes.placeholder": "Téma",
+  "ngtest.settings.themes.blue": "Modrá",
+  "ngtest.settings.themes.light": "Svetlá",
+  "ngtest.settings.themes.nature": "Prírodná",
+  "ngtest.settings.themes.dark": "Tmavá",
+  "ngtest.settings.themes.night-mode":
     "Automatický nočný režim (od 21:00 do 7:00)",
-  "anms.settings.animations": "Animácie",
-  "anms.settings.animations.page": "Animácia celej stránky pri navigácii",
-  "anms.settings.animations.elements":
+  "ngtest.settings.animations": "Animácie",
+  "ngtest.settings.animations.page": "Animácia celej stránky pri navigácii",
+  "ngtest.settings.animations.elements":
     "Animácia elementov stránky pri navigácii"
 }
